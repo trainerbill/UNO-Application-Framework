@@ -13,3 +13,6 @@
 [submodule "public/funcunit"]
 	path = public/funcunit
 	url = https://github.com/bitovi/funcunit.git
+[submodule "public/jquery-ui"]
+	path = public/jquery-ui
+	url = https://github.com/jquery/jquery-ui.git
